@@ -54,7 +54,7 @@ const User = () => {
                             <th>Email</th>
                             <th>Created At</th>
                             <th>Last Login At</th>
-                            <th>Action</th>
+                            <th>ACtion</th>
                         </tr>
                     </thead>
                     <tbody>
